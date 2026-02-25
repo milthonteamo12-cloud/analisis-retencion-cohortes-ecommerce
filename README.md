@@ -24,50 +24,7 @@ Analizar la retención de clientes mediante cohortes mensuales para identificar 
 ## 📌 Conclusión
 El análisis de cohortes permite detectar oportunidades de mejora en retención y optimización de estrategias de fidelización.
 
-Commit changes.
 
-🎯 PASO 3: Subir tu archivo
-
-Ahora:
-
-Add file
-
-Upload files
-
-Sube:
-
-Tu archivo SQL
-
-Notebook (si usaste Python)
-
-Excel (si aplica)
-
-Commit changes
-
-🎯 PASO 4: Agregarlo a tu CV en Canva
-
-En sección Proyectos agrega:
-
-Análisis de Retención y Cohortes – E-commerce
-
-Creación de cohortes mensuales mediante SQL.
-
-Cálculo de tasas de retención M1, M2 y M3.
-
-Segmentación por país para identificar patrones de churn.
-
-Identificación de mercados con mayor riesgo de abandono.
-
-GitHub:
-
-github.com/tuusuario/analisis-retencion-cohortes-ecommerce
-🚀 Karen, mira lo que ya tienes en tu portafolio:
-
-📦 Funnel de conversión
-📦 Movilidad vs PIB
-📦 Retención por cohortes
-
-Eso ya es portafolio junior competitivo real.
 
 Si quieres ahora hacemos algo más estratégico 👀
 
